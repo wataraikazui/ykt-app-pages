@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wataraikazui.github.io/ykt-app-pages/sitemap.xml
